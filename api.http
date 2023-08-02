@@ -1,0 +1,7 @@
+POST http:localhost:3000/api/greetings
+Content-Type: "application/json"
+
+{
+    "language": "Afrikaans",
+    "greeting": "Goeie more"
+}
